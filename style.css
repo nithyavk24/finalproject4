@@ -1,0 +1,15 @@
+ 
+    .edge{
+        fill: white;
+        stroke: black;
+        stroke-width: 1;
+    }
+    .button{
+        fill: #2060dd;
+        stroke: #2580ff;
+        stroke-width: 1;
+    }
+    .button:hover{
+        stroke-width: 3;
+    }
+  
